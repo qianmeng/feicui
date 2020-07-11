@@ -1,0 +1,35 @@
+pages:
+ # key is the dirname of pages in src/pages
+ home:
+  # 首页配置
+  zh-cn:
+   title: '翡翠大观园'
+   keywords: '珠宝首饰，翡翠大观园，翡翠'
+   description: '专门为广大用户挑选翡翠的网站，超低性价比'
+  # home config
+  en-us:
+   title: 'page title'
+   keywords: 'keyword1,keyword2'
+   description: 'page description'
+ community:
+  # 社区页配置
+  zh-cn:
+   title: '大观园社区'
+   keywords: '社区，翡翠珠宝'
+   description: '大观园翡翠珠宝互动社区'
+  # community page config
+  en-us:
+   title: 'page title'
+   keywords: 'keyword1,keyword2'
+   description: 'page description'
+ blog:
+  # 博客列表页配置
+  zh-cn:
+   title: '翡翠介绍'
+   keywords: '翡翠介绍，挑选翡翠'
+   description: '翡翠识别，品种分类，精选翡翠介绍'
+  en-us:
+   # blog list page config
+   title: 'page title'
+   keywords: 'keyword1,keyword2'
+   description: 'page description'

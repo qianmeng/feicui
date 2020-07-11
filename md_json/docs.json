@@ -1,0 +1,51 @@
+{
+  "en-us": [
+    {
+      "filename": "demo1.md",
+      "link": "\\en-us\\docs\\demo1.html",
+      "meta": {}
+    },
+    {
+      "filename": "demo2.md",
+      "link": "\\en-us\\docs\\demo2.html",
+      "meta": {}
+    },
+    {
+      "filename": "demo3.md",
+      "link": "\\en-us\\docs\\dir\\demo3.html",
+      "meta": {}
+    }
+  ],
+  "zh-cn": [
+    {
+      "filename": "aboutcompany.md",
+      "link": "\\zh-cn\\docs\\aboutcompany.html",
+      "meta": {}
+    },
+    {
+      "filename": "aboutfeicui.md",
+      "link": "\\zh-cn\\docs\\aboutfeicui.html",
+      "meta": {}
+    },
+    {
+      "filename": "aboutsite.md",
+      "link": "\\zh-cn\\docs\\aboutsite.html",
+      "meta": {}
+    },
+    {
+      "filename": "demo1.md",
+      "link": "\\zh-cn\\docs\\demo1.html",
+      "meta": {}
+    },
+    {
+      "filename": "demo2.md",
+      "link": "\\zh-cn\\docs\\demo2.html",
+      "meta": {}
+    },
+    {
+      "filename": "demo3.md",
+      "link": "\\zh-cn\\docs\\dir\\demo3.html",
+      "meta": {}
+    }
+  ]
+}
