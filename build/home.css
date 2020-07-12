@@ -1727,7 +1727,7 @@ h1, h2, h3, h4, h5, h6 {
 .home-page .top-section {
   position: relative;
   height: 720px;
-  background-image: linear-gradient(0deg, #03DDE4 0%, #30AFED 51%, #8755FF 100%); }
+  background-image: url(/img/bgimage.jpg); }
   .home-page .top-section .animation {
     position: absolute;
     top: 0;
@@ -1773,7 +1773,7 @@ h1, h2, h3, h4, h5, h6 {
     transform: translateY(-50%);
     box-sizing: border-box;
     width: 100%;
-    text-align: center;
+    text-align: left;
     padding: 0 20px; }
   .home-page .top-section .product-name {
     position: relative;
@@ -1781,20 +1781,20 @@ h1, h2, h3, h4, h5, h6 {
     .home-page .top-section .product-name h2 {
       font-family: Avenir-Heavy;
       font-size: 46px;
-      color: #FFF;
-      text-align: center;
+      color: #0a78f7;
+      text-align: left;
       word-break: break-word;
       margin: 0; }
   .home-page .top-section .product-desc {
     opacity: 0.6;
     font-family: Avenir-Medium;
     font-size: 24px;
-    color: #FFF;
-    text-align: center;
-    margin: 12px auto 0;
+    color: #0a78f7;
+    text-align: left;
+    margin: auto 0;
     max-width: 730px; }
   .home-page .top-section .button-area {
-    text-align: center;
+    text-align: left;
     margin-top: 40px; }
     .home-page .top-section .button-area .button {
       margin-right: 20px; }
