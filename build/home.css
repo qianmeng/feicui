@@ -1727,7 +1727,7 @@ h1, h2, h3, h4, h5, h6 {
 .home-page .top-section {
   position: relative;
   height: 720px;
-  background-image: url(/feicui/img/bgimage.jpg); }
+  background-image: url(/img/bgimage.jpg); }
   .home-page .top-section .animation {
     position: absolute;
     top: 0;
