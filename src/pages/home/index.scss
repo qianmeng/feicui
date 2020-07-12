@@ -71,7 +71,7 @@ $animation5Height: 460px;
   .top-section {
     position: relative;
     height: 720px;
-    background-image: url(/img/bgimage.jpg);//linear-gradient(0deg, $startColor 0%, $intermediateColor 51%, $endColor 100%);
+    background-image: url($bgimage);//linear-gradient(0deg, $startColor 0%, $intermediateColor 51%, $endColor 100%);
     .animation {
       position: absolute;
       top: 0;
